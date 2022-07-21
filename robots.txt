@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://workoutplan.github.io/workout-street/sitemapx.xml
